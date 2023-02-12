@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Net*_14 Pin=P2-13
+Added Pin To Net: NetName=Net*_13 Pin=P2-14
+Added Room: Name=Components
+Added Room: Name=ESP32-C6-DisplayBoard

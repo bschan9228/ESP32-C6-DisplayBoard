@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=GND Pin=*1-1
+Removed Pin From Net: NetName=3V3 Pin=*1-2
+Removed Pin From Net: NetName=Net*1_3 Pin=*1-3
+Removed Pin From Net: NetName=Net*1_15 Pin=*1-15
+Removed Pin From Net: NetName=GND Pin=*1-28
+Removed Pin From Net: NetName=GND Pin=*1-29
+Removed Pin From Net: NetName=GND Pin=*1-29
+Removed Pin From Net: NetName=GND Pin=*1-29
+Removed Pin From Net: NetName=GND Pin=*1-29
+Removed Pin From Net: NetName=GND Pin=*1-29
+Removed Pin From Net: NetName=GND Pin=*1-29
+Removed Pin From Net: NetName=GND Pin=*1-29
+Removed Pin From Net: NetName=GND Pin=*1-29
+Removed Pin From Net: NetName=GND Pin=*1-29
+Removed Member From Class: ClassName=ESP32-C6-DisplayBoard Member=*1
+Added Component: Designator=*(PCBComponent_1)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=3V3 Pin=*-2
+Added Pin To Net: NetName=Net*1_3 Pin=*-3
+Added Pin To Net: NetName=Net*1_15 Pin=*-15
+Added Pin To Net: NetName=GND Pin=*-28
+Added Pin To Net: NetName=GND Pin=*-29
+Added Pin To Net: NetName=GND Pin=*-29
+Added Pin To Net: NetName=GND Pin=*-29
+Added Pin To Net: NetName=GND Pin=*-29
+Added Pin To Net: NetName=GND Pin=*-29
+Added Pin To Net: NetName=GND Pin=*-29
+Added Pin To Net: NetName=GND Pin=*-29
+Added Pin To Net: NetName=GND Pin=*-29
+Added Pin To Net: NetName=GND Pin=*-29
+Change Net Name : Old Net Name=Net*1_3 New Net Name=Net*_3
+Change Net Name : Old Net Name=Net*1_15 New Net Name=Net*_15
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Net: Name=Net*_7
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Net: Name=Net*_8
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Net: Name=Net*_9
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=Net*_10 Pin=R1-1
+Added Net: Name=Net*_10
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Net: Name=Net*_11
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Net: Name=Net*_12
+Added Pin To Net: NetName=Net*_13 Pin=*-13
+Added Pin To Net: NetName=Net*_13 Pin=J1-A7
+Added Pin To Net: NetName=Net*_13 Pin=J1-B7
+Added Net: Name=Net*_13
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Pin To Net: NetName=Net*_14 Pin=J1-A6
+Added Pin To Net: NetName=Net*_14 Pin=J1-B6
+Added Net: Name=Net*_14
+Added Pin To Net: NetName=Net*_16 Pin=*-16
+Added Net: Name=Net*_16
+Added Pin To Net: NetName=Net*_17 Pin=*-17
+Added Net: Name=Net*_17
+Added Pin To Net: NetName=Net*_18 Pin=*-18
+Added Net: Name=Net*_18
+Added Pin To Net: NetName=Net*_19 Pin=*-19
+Added Net: Name=Net*_19
+Added Pin To Net: NetName=Net*_20 Pin=*-20
+Added Net: Name=Net*_20
+Added Pin To Net: NetName=Net*_21 Pin=*-21
+Added Net: Name=Net*_21
+Added Pin To Net: NetName=Net*_23 Pin=*-23
+Added Net: Name=Net*_23
+Added Pin To Net: NetName=Net*_24 Pin=*-24
+Added Net: Name=Net*_24
+Added Pin To Net: NetName=Net*_25 Pin=*-25
+Added Net: Name=Net*_25
+Added Pin To Net: NetName=Net*_26 Pin=*-26
+Added Net: Name=Net*_26
+Added Pin To Net: NetName=Net*_27 Pin=*-27
+Added Net: Name=Net*_27
+Added Member To Class: ClassName=ESP32-C6-DisplayBoard Member=Component * ESP32-C6-WROOM-1
+Added Member To Class: ClassName=ESP32-C6-DisplayBoard Member=Component C1 C1608X5R1A226M080AC
+Added Room: Name=Components
+Added Room: Name=ESP32-C6-DisplayBoard

@@ -1,0 +1,81 @@
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=3V3 Pin=J2-6
+Added Pin To Net: NetName=3V3 Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J2-16
+Added Pin To Net: NetName=GND Pin=J2-17
+Added Pin To Net: NetName=GND Pin=J2-18
+Added Pin To Net: NetName=GND Pin=J2-19
+Added Pin To Net: NetName=GND Pin=J2-20
+Added Pin To Net: NetName=GND Pin=J2-21
+Added Pin To Net: NetName=GND Pin=J2-22
+Added Pin To Net: NetName=GND Pin=J2-23
+Added Pin To Net: NetName=GND Pin=J2-24
+Added Pin To Net: NetName=GND Pin=J2-25
+Added Pin To Net: NetName=GND Pin=J2-26
+Added Pin To Net: NetName=GND Pin=J2-27
+Added Pin To Net: NetName=GND Pin=J2-28
+Added Pin To Net: NetName=GND Pin=J2-29
+Added Pin To Net: NetName=GND Pin=J2-30
+Added Pin To Net: NetName=GND Pin=J2-31
+Added Pin To Net: NetName=GND Pin=J2-32
+Added Pin To Net: NetName=3V3 Pin=J2-33
+Added Pin To Net: NetName=GND Pin=J2-34
+Added Pin To Net: NetName=GND Pin=J2-35
+Added Pin To Net: NetName=GND Pin=J2-36
+Added Pin To Net: NetName=GND Pin=J2-37
+Added Pin To Net: NetName=GND Pin=J2-38
+Added Pin To Net: NetName=3V3 Pin=J2-39
+Added Pin To Net: NetName=3V3 Pin=J2-40
+Added Pin To Net: NetName=GND Pin=J2-41
+Added Pin To Net: NetName=GND Pin=J2-42
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Pin To Net: NetName=Net*_3 Pin=P1-2
+Added Pin To Net: NetName=Net*_4 Pin=P1-3
+Added Pin To Net: NetName=Net*_5 Pin=P1-4
+Added Pin To Net: NetName=Net*_6 Pin=P1-5
+Added Pin To Net: NetName=Net*_7 Pin=P1-6
+Added Pin To Net: NetName=Net*_8 Pin=P1-7
+Added Pin To Net: NetName=Net*_9 Pin=P1-8
+Added Pin To Net: NetName=Net*_11 Pin=P1-10
+Added Pin To Net: NetName=Net*_12 Pin=P1-11
+Added Pin To Net: NetName=Net*_27 Pin=P1-12
+Added Pin To Net: NetName=Net*_26 Pin=P1-13
+Added Pin To Net: NetName=+5 Pin=P1-14
+Added Pin To Net: NetName=GND Pin=P1-15
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Net: Name=NetJ2_4
+Added Pin To Net: NetName=NetJ2_9 Pin=J2-9
+Added Net: Name=NetJ2_9
+Added Pin To Net: NetName=NetJ2_10 Pin=J2-10
+Added Net: Name=NetJ2_10
+Added Pin To Net: NetName=NetJ2_11 Pin=J2-11
+Added Net: Name=NetJ2_11
+Added Pin To Net: NetName=NetJ2_13 Pin=J2-13
+Added Net: Name=NetJ2_13
+Added Pin To Net: NetName=NetJ2_15 Pin=J2-15
+Added Net: Name=NetJ2_15
+Added Pin To Net: NetName=NetP1_9 Pin=P1-9
+Added Net: Name=NetP1_9
+Added Pin To Net: NetName=NetP1_16 Pin=P1-16
+Added Pin To Net: NetName=NetP1_16 Pin=P2-2
+Added Pin To Net: NetName=NetP1_16 Pin=P2-3
+Added Pin To Net: NetName=NetP1_16 Pin=P2-4
+Added Pin To Net: NetName=NetP1_16 Pin=P2-5
+Added Pin To Net: NetName=NetP1_16 Pin=P2-6
+Added Pin To Net: NetName=NetP1_16 Pin=P2-7
+Added Pin To Net: NetName=NetP1_16 Pin=P2-8
+Added Pin To Net: NetName=NetP1_16 Pin=P2-9
+Added Pin To Net: NetName=NetP1_16 Pin=P2-10
+Added Pin To Net: NetName=NetP1_16 Pin=P2-11
+Added Pin To Net: NetName=NetP1_16 Pin=P2-13
+Added Pin To Net: NetName=NetP1_16 Pin=P2-14
+Added Pin To Net: NetName=NetP1_16 Pin=P2-16
+Added Net: Name=NetP1_16
+Added Room: Name=Components
+Added Room: Name=ESP32-C6-DisplayBoard

@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=Net*_4 Pin=J2-1
+Added Pin To Net: NetName=Net*_5 Pin=J2-2
+Added Pin To Net: NetName=Net*_6 Pin=J2-3
+Added Pin To Net: NetName=Net*_8 Pin=J2-4
+Added Pin To Net: NetName=Net*_16 Pin=J2-9
+Added Pin To Net: NetName=Net*_17 Pin=J2-10
+Added Pin To Net: NetName=Net*_18 Pin=J2-11
+Added Pin To Net: NetName=Net*_19 Pin=J2-13
+Added Pin To Net: NetName=Net*_20 Pin=J2-15
+Added Pin To Net: NetName=Net*_10 Pin=P1-9
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-12
+Added Pin To Net: NetName=GND Pin=P2-15
+Added Room: Name=Components
+Added Room: Name=ESP32-C6-DisplayBoard

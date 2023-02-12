@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=+5 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=3V3 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=+5 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U1-3
+Added Pin To Net: NetName=3V3 Pin=U1-5
+Added Member To Class: ClassName=Components Member=Component C6 Capacitor 1 uF +/- 10% 6.3 V 0402
+Added Member To Class: ClassName=ESP32-C6-DisplayBoard Member=Component C7 Capacitor 2,2µF +/-20% 10V 0402
+Added Member To Class: ClassName=ESP32-C6-DisplayBoard Member=Component C8 Capacitor 2,2µF +/-20% 10V 0402
+Added Member To Class: ClassName=ESP32-C6-DisplayBoard Member=Component ST4 PTH-M2D5X5
+Added Room: Name=Components
+Added Room: Name=ESP32-C6-DisplayBoard

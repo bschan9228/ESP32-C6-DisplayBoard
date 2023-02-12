@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=ST? NewDesignator=ST1
+Change Component Designator: OldDesignator=ST? NewDesignator=ST2
+Change Component Designator: OldDesignator=ST? NewDesignator=ST3
+Change Component Designator: OldDesignator=ST? NewDesignator=ST4
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Member To Class: ClassName=ESP32-C6-DisplayBoard Member=Component ST1 PTH-M2D5X5
+Added Member To Class: ClassName=ESP32-C6-DisplayBoard Member=Component ST2 PTH-M2D5X5
+Added Member To Class: ClassName=ESP32-C6-DisplayBoard Member=Component ST3 PTH-M2D5X5
