@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_1
+Added Room: Name=Components
+Added Room: Name=ESP32-C6-DisplayBoard
