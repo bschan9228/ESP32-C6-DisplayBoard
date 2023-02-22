@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESP32-C6-DisplayBoard.PcbDoc   2/13/2023  2:18:45 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ESP32-C6-DisplayBoard-RoundHoles.TXT
+ASCII SlotHoles File : ESP32-C6-DisplayBoard-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             12        PTH        104.35mm (4.11inch)
+T2      0.4mm (16mil)                                             Round             60        PTH        448.16mm (17.64inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        38.15mm (1.50inch)
+T4      0.9mm (35mil)                                             Round             32        PTH        177.42mm (6.99inch)
+T5      2.5mm (98mil)                                             Round             4         PTH        142.80mm (5.62inch)
+T6      0.6mm (24mil)                                             Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              114
+
+Total Processing Time (hh:mm:ss) : 00:00:00

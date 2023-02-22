@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\bscha\Desktop\ESP32-C6-DisplayBoard\ESP32-C6-DisplayBoard\ESP32-C6-DisplayBoard.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=esp32-c6-displayboard-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=esp32-c6-displayboard-slotholes.txt|DrillLayers=gtl,gbl
