@@ -6,12 +6,11 @@ The display's code is running a modified version of nopnop2002's esp-idf-ili9340
 Display used: https://www.aliexpress.us/item/2251832650770748.html 
 
 ## Images
-![IMG_0301](https://user-images.githubusercontent.com/72418944/221109742-13d9bf5c-9c77-4967-b8ff-bb24cb09b8c8.jpg)
+
+![IMG_0310](https://user-images.githubusercontent.com/72418944/221341070-aedabb0c-9318-4009-9559-f67df29def05.jpg)
 
 ### Display
 https://user-images.githubusercontent.com/72418944/221109796-734625ba-fa91-489e-a97e-f63158e335df.mov
-
-https://user-images.githubusercontent.com/72418944/220523997-a647836d-92a6-4698-8f2d-d90a5eed4772.mov
 
 ## Menuconfig
 ![image](https://user-images.githubusercontent.com/72418944/221110103-49a61bb6-48d6-4f74-8da8-396368fea639.png)
